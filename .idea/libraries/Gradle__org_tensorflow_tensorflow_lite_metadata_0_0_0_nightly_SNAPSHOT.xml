@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-metadata:0.0.0-nightly-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.tensorflow/tensorflow-lite-metadata/0.0.0-nightly-SNAPSHOT/e0135fc3d3099a37be8313fd8d02832113d22496/tensorflow-lite-metadata-0.0.0-nightly-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
